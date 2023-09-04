@@ -1,6 +1,6 @@
 # Metaphor
 
-Official page : https://docs.metaphor.systems/reference/getting-started-1
+Inspired by : https://docs.metaphor.systems/reference/getting-started-1
 
 1.
 ![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0001](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/9a356e6d-6b49-4542-992c-3ccf0e94bced)

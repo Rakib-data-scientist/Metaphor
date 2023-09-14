@@ -1,35 +1,39 @@
 # Metaphor
 
-Inspired by : https://docs.metaphor.systems/reference/getting-started-1
-
 1.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0001](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/9a356e6d-6b49-4542-992c-3ccf0e94bced)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0001](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/c27582b9-6648-435a-8d45-157a7b50f0a3)
 2.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0002](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/94b55807-9f9d-4fe8-8f1f-626bf9477b2a)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0002](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/63314b1f-ca52-48cc-bcbf-e88760654ea5)
 3.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0003](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/08a64a35-a08d-4d75-b758-67dac1df947d)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0003](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/02216b25-289b-4efd-9837-091750083552)
 4.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0004](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/6889e9da-52e7-40d6-8e30-53e0e244dcfb)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0004](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/808f690b-d896-43aa-be64-82dbe5ca7467)
 5.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0005](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/daf8f25a-a23c-4273-a7f0-91b599cf6656)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0005](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/c4134f77-7716-4684-98e9-14356ef28946)
 6.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0006](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/08c13be2-0560-42cb-a8b5-e4df080dc474)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0006](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/9ec7c08a-b815-4108-b756-509a1da7aced)
 7.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0007](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/13031ae9-63ec-4b84-9e95-e7fbe0caad35)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0007](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/b6cb8566-3552-4ba2-ae42-6be86d6aa279)
 8.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0008](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/56d3f3f6-f073-43d9-830f-156f118d4af6)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0008](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/7d168f36-d7f3-4312-9535-2b0624ab1021)
 9.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0009](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/5e1706e2-e5eb-4cb8-a12b-353590540b11)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0009](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/5bd3a7ef-ad00-468e-a6f5-fb72977a93fd)
 10.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0010](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/ef396799-3a97-45d4-bda8-36c54aed0b4c)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0010](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/f7298383-a7a3-46a2-baba-8b5fc6d42efe)
 11.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0011](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/f876bf52-3d24-42d4-8cb1-1fd2758de9c2)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0011](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/0519a41a-6c4d-4aec-9557-b93937cdea6d)
 12.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0012](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/e1325b5c-323c-40b3-8685-c3a9136cf991)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0012](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/b0e78e64-425a-47de-bdd7-d720e4f75f19)
 13.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0013](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/70bcee26-fafd-417b-aef2-0b5dcae03a1c)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0013](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/f47404e8-9557-435a-a788-a36481464d80)
 14.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0014](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/85ca0187-3576-4c65-8888-6ea9263b76d1)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0014](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/a57a18fe-291c-4254-adf2-b51ac25f4c58)
 15.
-![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0015](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/ba1f9ac6-6650-4989-a19c-e72a6a67342a)
+![The-Metaphor-API-Connecting-your-LLM-to-the-Internet_page-0015](https://github.com/Rakib-data-scientist/Metaphor/assets/137823730/b92e4a98-52de-4b49-b0a6-0cc09db7179b)
+
+
+
+* Inspired by : https://docs.metaphor.systems/reference/getting-started-1
+
+
 
